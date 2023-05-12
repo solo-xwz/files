@@ -131,4 +131,5 @@ payload:
   - 'paypal.me'
   - 'paypal.com'
   - 'namesilo.com'
+  - 'allegro.pl'
 
