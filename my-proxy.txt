@@ -130,4 +130,5 @@ payload:
   - 'merlinblog.xyz'
   - 'paypal.me'
   - 'paypal.com'
+  - 'namesilo.com'
 
