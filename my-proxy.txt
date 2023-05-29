@@ -10,7 +10,7 @@ payload:
   - 'apache.org'
   - 'api.market'
   - 'awstrack.me'
-  - 'bing.com'
+  - '.bing.com'
   - 'block.cc'
   - 'boxy-svg.com'
   - 'braintreegateway.com'
