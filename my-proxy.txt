@@ -135,4 +135,5 @@ payload:
   - '+.zoho.com'
   - '+.lemonsqueezy'
   - '+.cloudfront.net'
+  - '+.usefathom.com'
 
