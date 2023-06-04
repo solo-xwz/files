@@ -133,5 +133,6 @@ payload:
   - 'namesilo.com'
   - 'allegro.pl'
   - '+.zoho.com'
-  - -+.lemonsqueezy'
+  - '+.lemonsqueezy'
+  - '+.cloudfront.net'
 
