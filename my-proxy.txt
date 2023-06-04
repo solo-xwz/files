@@ -132,4 +132,5 @@ payload:
   - 'paypal.com'
   - 'namesilo.com'
   - 'allegro.pl'
+  - '+.zoho.com'
 
