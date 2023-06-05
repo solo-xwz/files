@@ -74,7 +74,7 @@ payload:
   - 'mashape.com'
   - 'mifengcha.com'
   - 'mmog.asia'
-  - 'namesilo.com'
+  - '+.namesilo.com'
   - 'nat.dev'
   - 'netlify.com'
   - 'okx.com'
