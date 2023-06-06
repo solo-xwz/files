@@ -139,4 +139,5 @@ payload:
   - '+.cloudfront.net'
   - '+.usefathom.com'
   - '+.cash.app'
+  - '+.squarecdn.com'
 
