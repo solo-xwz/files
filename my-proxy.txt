@@ -138,4 +138,5 @@ payload:
   - '+.lemonsqueezy'
   - '+.cloudfront.net'
   - '+.usefathom.com'
+  - '+.cash.app'
 
