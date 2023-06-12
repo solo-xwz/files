@@ -140,4 +140,5 @@ payload:
   - '+.usefathom.com'
   - '+.cash.app'
   - '+.squarecdn.com'
+  - '+.payeer.com'
 
