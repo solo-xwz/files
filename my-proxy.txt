@@ -141,4 +141,5 @@ payload:
   - '+.cash.app'
   - '+.squarecdn.com'
   - '+.payeer.com'
+  - '+.zombie.cash'
 
