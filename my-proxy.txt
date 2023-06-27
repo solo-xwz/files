@@ -143,4 +143,5 @@ payload:
   - '+.payeer.com'
   - '+.zombie.cash'
   - '+.ip2world.com'
+  - '+.glyphs.fyi'
 
