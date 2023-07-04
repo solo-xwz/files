@@ -144,4 +144,5 @@ payload:
   - '+.zombie.cash'
   - '+.ip2world.com'
   - '+.glyphs.fyi'
+  - '+.razorpay.com'
 
