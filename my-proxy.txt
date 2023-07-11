@@ -65,7 +65,7 @@ payload:
   - 'kakaocorp.com'
   - 'katalk.kakao.com'
   - 'kenyang.net'
-  - 'konghq.com'
+  - '+.konghq.com'
   - 'lazada.sg'
   - 'line.me'
   - 'line.naver.jp'
