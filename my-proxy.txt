@@ -145,4 +145,6 @@ payload:
   - '+.ip2world.com'
   - '+.glyphs.fyi'
   - '+.razorpay.com'
+  - 'account-intl.console.aliyun.com'
+  - '+.alibabacloud.com'
 
