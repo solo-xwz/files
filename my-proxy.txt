@@ -148,4 +148,5 @@ payload:
   - '+.razorpay.com'
   - 'account-intl.console.aliyun.com'
   - '+.alibabacloud.com'
+  - '+.nexo.com'
 
