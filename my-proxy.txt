@@ -2,6 +2,7 @@ payload:
   - '9bis.net'
   - 'admissionhub.com'
   - 'adobedtm.com'
+  - '+.adobe.com'
   - 'agneo.co'
   - 'aicolors.co'
   - 'amazon.com'
