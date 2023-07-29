@@ -151,4 +151,5 @@ payload:
   - '+.alibabacloud.com'
   - '+.nexo.com'
   - '+.lunaproxy.com'
+  - '+.ifastgb.com'
 
