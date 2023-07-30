@@ -152,4 +152,5 @@ payload:
   - '+.nexo.com'
   - '+.lunaproxy.com'
   - '+.ifastgb.com'
+  - '+.tronscanapi.com'
 
