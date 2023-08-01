@@ -153,4 +153,5 @@ payload:
   - '+.lunaproxy.com'
   - '+.ifastgb.com'
   - '+.tronscanapi.com'
+  - '+.coindesk.com'
 
