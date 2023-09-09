@@ -5,5 +5,6 @@ payload:
   - DOMAIN-KEYWORD,interactivebrokers
   - DOMAIN-KEYWORD,ibkr
   - DOMAIN-SUFFIX,dnspod.com
+  - DOMAIN-SUFFIX,moomoo.com
   - DOMAIN-SUFFIX,tecentcloud.com
   - IP-CIDR,154.86.8.231/32
