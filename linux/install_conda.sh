@@ -11,6 +11,4 @@ echo "init miniconda..."
 echo "export ENV..."
 echo 'export PATH=/root/miniconda3/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
-echo "config..."
-conda config --set auto_activate_base false
 echo "install success!"
