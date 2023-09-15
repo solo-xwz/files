@@ -9,4 +9,4 @@ payload:
   - DOMAIN-SUFFIX,tecentcloud.com
   - IP-CIDR,154.86.8.231/32
   - DOMAIN-SUFFIX,userway.org
-  - DOMAIN-SUFFIX,payoneer.com
+  - DOMAIN,myaccount.payoneer.com
