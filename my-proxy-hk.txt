@@ -6,6 +6,8 @@ payload:
   - DOMAIN-KEYWORD,ibkr
   - DOMAIN-SUFFIX,dnspod.com
   - DOMAIN-SUFFIX,moomoo.com
+  - DOMAIN-SUFFIX,schwab.com
+  - DOMAIN-SUFFIX,wallst.com
   - DOMAIN-SUFFIX,tecentcloud.com
   - IP-CIDR,154.86.8.231/32
   - DOMAIN-SUFFIX,userway.org
