@@ -21,6 +21,7 @@ mv /usr/bin/perl /usr/bin/perl.old &&
 ln -s /usr/local/perl/bin/perl /usr/bin/perl &&
 
 echo "安装openssl..." &&
+cd /usr/local &&
 wget https://www.openssl.org/source/openssl-3.0.11.tar.gz &&
 tar -zxvf openssl-3.0.11.tar.gz &&
 cd openssl-3.0.11 &&
