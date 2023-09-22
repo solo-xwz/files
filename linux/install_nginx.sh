@@ -26,7 +26,7 @@ fi
 cd /usr/local &&
 wget http://nginx.org/download/nginx-1.24.0.tar.gz &&
 tar -xvf nginx-1.24.0.tar.gz
-directory_path="/path/to/your/directory"
+directory_path="/usr/sbin/nginx"
 if [ -d "$directory_path" ]; then
   echo "路径已存在: $directory_path"
 else
