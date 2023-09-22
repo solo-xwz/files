@@ -17,6 +17,8 @@ cd perl-5.38.0 &&
 ./Configure -des -Dprefix=/usr/local/perl -Dusethreads –Uversiononly &&
 make &&
 make install &&
+mv /usr/bin/perl /usr/bin/perl.old &&
+ln -s /usr/local/perl/bin/perl /usr/bin/perl &&
 
 echo "安装openssl..." &&
 wget https://www.openssl.org/source/openssl-3.0.11.tar.gz &&
