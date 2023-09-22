@@ -34,6 +34,6 @@ mv /usr/bin/openssl /usr/bin/openssl.old &&
 ln -s /usr/local/bin/openssl /usr/bin/openssl &&
 ln -s /usr/local/include/openssl/ /usr/include/openssl &&
 echo "/usr/local/lib/" >> /etc/ld.so.conf
-ldconfig -v &&
+ldconfig /usr/local/lib64/ &&
 
 echo "new openssl version: $(openssl version)"
