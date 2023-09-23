@@ -3,7 +3,8 @@ set -e
 
 
 name="redis-stable"
-install_path="/usr/local/${name}"
+source_path="/usr/local/${name}"
+install_path="/usr/local/bin"
 
 apt install pkg-config &&
 cd /usr/local &&
@@ -13,7 +14,7 @@ cd $name &&
 make && make install
 
 # Redis配置文件路径
-config_file="${install_path}/redis.conf"
+config_file="${source_path}/redis.conf"
 
 # 使用sed命令修改daemonize选项为yes
 sed -i 's/^daemonize no/daemonize yes/' "$config_file"
