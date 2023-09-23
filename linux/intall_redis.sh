@@ -23,14 +23,18 @@ sed -i 's/^daemonize no/daemonize yes/' "$config_file"
 echo "[Unit]
 Description=Redis
 After=network.target
+
 [Service]
-#Type=forking
+Type=forking
 ExecStart="${install_path}/redis-server" "$config_file"
 ExecReload="${install_path}/redis-server" -s reload
-ExecStop="${install_path}/redis-server"r -s stop
+ExecStop="${install_path}/redis-serverr" -s stop
 PrivateTmp=true
+Restart=always
+
 [Install]
-WantedBy=multi-user.target" > /usr/lib/systemd/system/redis.service &&
+WantedBy=multi-user.target
+" > /usr/lib/systemd/system/redis.service &&
 
 systemctl enable redis.service
 
