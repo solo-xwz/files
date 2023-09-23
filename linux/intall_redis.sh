@@ -5,6 +5,7 @@ set -e
 name="redis-stable"
 install_path="/usr/local/${name}"
 
+apt install pkg-config &&
 cd /usr/local &&
 wget "https://download.redis.io/${name}.tar.gz" &&
 tar -xzvf "${name}.tar.gz" &&
