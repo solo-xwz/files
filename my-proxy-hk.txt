@@ -4,6 +4,8 @@ payload:
   - DOMAIN-KEYWORD,cex
   - DOMAIN-KEYWORD,interactivebrokers
   - DOMAIN-KEYWORD,ibkr
+  - DOMAIN-SUFFIX,pyproxy.com
+  - DOMAIN-SUFFIX,zendesk.com
   - DOMAIN-SUFFIX,dnspod.com
   - DOMAIN-SUFFIX,moomoo.com
   - DOMAIN-SUFFIX,schwab.com
