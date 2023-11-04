@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,cex
   - DOMAIN-KEYWORD,interactivebrokers
   - DOMAIN-KEYWORD,ibkr
+  - DOMAIN,cloud.google.com
   - DOMAIN-SUFFIX,pyproxy.com
   - DOMAIN-SUFFIX,ice.work
   - DOMAIN-SUFFIX,maxproxy.com
