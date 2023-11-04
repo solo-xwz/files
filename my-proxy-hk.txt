@@ -14,6 +14,9 @@ payload:
   - DOMAIN-SUFFIX,schwab.com
   - DOMAIN-SUFFIX,wallst.com
   - DOMAIN-SUFFIX,tecentcloud.com
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,schwabcdn.com
+  - DOMAIN-SUFFIX,tiqcdn.com
   - IP-CIDR,154.86.8.231/32
   - DOMAIN-SUFFIX,userway.org
   - DOMAIN,myaccount.payoneer.com
