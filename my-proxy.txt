@@ -154,5 +154,6 @@ payload:
   - '+.ifastgb.com'
   - '+.tronscanapi.com'
   - '+.coindesk.com'
+  - '+.pgbouncer.org'
   
 
