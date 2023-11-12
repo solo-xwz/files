@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 echo "start install miniconda3..."
 mkdir -p ~/miniconda3
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
