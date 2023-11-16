@@ -155,5 +155,6 @@ payload:
   - '+.tronscanapi.com'
   - '+.coindesk.com'
   - '+.pgbouncer.org'
+  - '+.gunicorn.org'
   
 
