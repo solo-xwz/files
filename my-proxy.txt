@@ -156,5 +156,6 @@ payload:
   - '+.coindesk.com'
   - '+.pgbouncer.org'
   - '+.gunicorn.org'
+  - '+.amazonaws.com'
   
 
