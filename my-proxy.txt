@@ -157,5 +157,6 @@ payload:
   - '+.pgbouncer.org'
   - '+.gunicorn.org'
   - '+.amazonaws.com'
+  - '+.zerossl.com'
   
 
