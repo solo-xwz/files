@@ -10,6 +10,8 @@ payload:
   - DOMAIN-SUFFIX,maxproxy.com
   - DOMAIN-SUFFIX,zendesk.com
   - DOMAIN-SUFFIX,dnspod.com
+  - DOMAIN-SUFFIX,cloudcachetci.com
+  - DOMAIN-SUFFIX,tencentcloud.com
   - DOMAIN-SUFFIX,moomoo.com
   - DOMAIN-SUFFIX,schwab.com
   - DOMAIN-SUFFIX,wallst.com
