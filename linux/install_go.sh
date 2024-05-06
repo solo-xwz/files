@@ -1,9 +1,9 @@
 #!/bin/bash
 set -e
-
+version='1.22.2'
 cd /usr/local/ &&
-wget https://go.dev/dl/go1.22.2.linux-amd64.tar.gz &&
-rm -rf /usr/local/go && tar -C /usr/local -xzf go1.21.6.linux-amd64.tar.gz &&
+wget "https://go.dev/dl/go$version.linux-amd64.tar.gz" &&
+rm -rf /usr/local/go && tar -C /usr/local -xzf "go$version.linux-amd64.tar.gz" &&
 
 # add env
 new_path='export PATH=$PATH:/usr/local/go/bin'
