@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-version='1.22.2'
+version='1.23.3'
 cd /usr/local/ &&
 wget "https://go.dev/dl/go$version.linux-amd64.tar.gz" &&
 rm -rf /usr/local/go && tar -C /usr/local -xzf "go$version.linux-amd64.tar.gz" &&
